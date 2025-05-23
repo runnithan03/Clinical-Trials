@@ -1,0 +1,165 @@
+Hello and welcome to this episode of JAMA Evidence.
+I'm Ed Livingston, Deputy Editor for Clinical Reviews and Education at JAMA.
+Today I'm joined by Dr. Roger Lewis.
+Dr. Lewis is Professor of Emergency Medicine at Harbor UCLA Medical Center
+and the David Geffen School of Medicine at UCLA.
+He's also a Senior Medical Scientist at the Barry Statistical Consultants Group.
+Dr. Lewis is going to talk today about a chapter published in the JAMA Guide to Statistics and Methods
+on Randomization in Clinical Trials.
+Could we start with having you tell us why it's important to randomize?
+Absolutely. The primary purpose of randomization in clinical trials is to help ensure
+that groups of patients whose outcomes are going to be compared
+are as similar as possible to each other with respect to both measured
+and unmeasured characteristics that might influence their outcomes.
+So there are things we know influence patients' outcomes, such as their age,
+comorbidities, severity of disease.
+But there are also things that are unknowable or unmeasurable
+that may also affect their outcomes.
+And randomization, at least when the trial is large enough,
+helps ensure that those characteristics are balanced
+so that any differences that we see between the groups of patients in terms of their outcomes
+can be appropriately attributed to the differences treatments that were used in the trial.
+Now, at JAMA, we make a very clear distinction between randomized studies
+and non-randomized studies.
+We only allow an intervention to be considered causally related to some outcome
+if it's been assessed in a randomized trial.
+And in any other trial or any other study, such as an observational study,
+we won't allow the use of the term causality
+that we will describe relationships between risk factors and outcomes as associations
+or interventions and outcomes as associations.
+Why is that?
+Well, I think there's multiple considerations,
+but the most important has to do with the difficulty in addressing all sources of confounding
+or unrecognized confounding.
+Confounding is the situation in which there is both the potential
+that there's the difference in treatments that were allocated to the patients causing a difference.
+And there being some other factor that is both correlated with the treatment received,
+maybe by chance, and with patients' outcomes that might confuse any conclusion that might be drawn.
+So to try to make that more concrete, you can picture a small study, for example,
+evaluating the effect of a dietary approach on some sort of outcome,
+consider, for example, a cardiovascular outcome.
+In an observational setting, people's choice of diet is correlated
+with all sorts of other choices in terms of lifestyle, total caloric intake,
+and other factors.
+So it would be difficult in that observational setting to attribute any difference
+in cardiovascular outcomes just to diet without knowing all of the other differences
+between patients who tend to choose different diets.
+So in an observational setting, because of the possibility that there are unknown
+or unmeasured factors that are correlated with both the treatment or the factor
+that's being evaluated and the outcome, it's impossible to know for sure
+what caused the observed difference.
+Now, randomization is a good process, but not a perfect process,
+and problems can be introduced during the randomization process related to a variety of factors.
+And there are two strategies used to try to maximize the benefits of randomization.
+One of them is stratification, and the other is randomizing as permuted blocks.
+So could you explain for us what stratification and permuted blocks are?
+Sure.
+So these are two techniques used to address a limitation of randomization
+when randomization is used in a relatively small clinical trial.
+So randomization only can assure, or virtually assure,
+the balance in characteristics between the treatment groups,
+under the assumption that a very, very large number of patients,
+technically an infinite number of patients are randomized.
+And of course, in real life, we often have trials with relatively limited sample sizes,
+and in some disease processes, very small sample sizes.
+In that setting, randomization does not guarantee that there will be particularly good balance
+in prognostic characteristics between the treatment groups.
+So both of these strategies are aimed at helping randomization achieve the balance
+in those prognostic characteristics so that any differences in outcome
+can be appropriately attributed as a causal result of the choice of treatment.
+In stratification, we use the fact that we can identify, or can often identify,
+primary characteristics of patients that are likely to affect outcome.
+So for example, in an oncology setting, it may be a stage or a biologic subtype of disease
+in a traumatic injury setting, it may be an injury severity score or components of the injury or vital signs.
+But the idea with stratification is that there are characteristics identifiable in the enrolled patients
+at the time of randomization that form different groups that may respond differently to therapies
+or simply have different prognoses.
+By separating the patients at that point in the randomization process
+and randomizing them separately from each other,
+if I thought in a particular disease state, for example,
+that a location of injury was an important biologic factor,
+then I might separately want to randomize patients with one injury pattern from those with another,
+for example, with or without concomitant head injury in the setting of blunt trauma.
+Because of head injury has a very important prognostic influence on the outcomes of patients,
+by stratifying the randomization, in other words, separately randomizing patients with and without head injury.
+I can help ensure that there is an equal representation of head injured patients in each of the treatment groups,
+therefore preventing confounding of injury type in confusing any conclusions that might be drawn regarding the effect of treatment.
+Now, for stratification to be an effective therapy, one has to use the other approach that you mentioned,
+namely the use of permuted blocks.
+The phrase permuted blocks contains the two essential components.
+The first is the definition of a block size, where the term block simply means an integral number of patients.
+Traditionally, we use even numbers of patients, although that's not necessarily a requirement,
+because we're used to doing trials to compare two therapies, and we'd like equal numbers of patients to end up in each group to maximize power.
+So, for example, with a block size of four, we might have two patients randomized to control and two patients randomized to experimental.
+And within that block, the randomization is the order of those treatment assignments.
+You can think with a block size of four, of simply choosing randomly which of the two patients received the control,
+and by default, the other two patients would receive the experimental therapy.
+The advantage of randomizing in permuted blocks, where the term permuted means random order, is that at the end of each block,
+you are absolutely guaranteed of having equal balance of control and experimental arms within that group of patients.
+So, when one is doing a stratified randomization, returning to the example of stratifying patients by the presence or absence of head injury,
+one would have a set of permuted blocks that are pre-specified for those with head injury,
+and a set of permuted blocks that are pre-specified for those patients without head injury,
+and at the completion of the block within each patient type, we are guaranteed that the treatment assignments will be balanced within each of those strata.
+That similarly guarantees that the fraction of patients with head injury will be well balanced between the two patient groups.
+What can go wrong? What are the limitations of stratification and permuted blocks?
+I think there's two different sets of limitations. Some are operational and some have to do with maintaining protection from bias.
+So, operationally, the introduction or the use of either of these restricted randomization procedures increases the complexity of the randomization process.
+So, for this reason, we generally try to limit the number of strata or the number of levels within each of the strata to reduce the complexity.
+And with permuted blocks, we usually don't use permuted blocks that are tremendously large in size.
+So, there's the operational challenges. With permuted blocks specifically, there's also a concern regarding difficulty in maintaining true blinding.
+So, for example, one of the important characteristics of a well-designed randomized trial is that at the time a patient is identified as being eligible,
+the person evaluating and consenting the patient cannot know what the next treatment assignment is likely to be.
+This is critical for ensuring that subtle choices regarding declaring a patient eligible or ineligible are not biased by a knowledge or a belief that one can predict the next treatment assignment.
+Picture a surgical trial, for example, where the treatment cannot be blinded once it is assigned and the use of permuted blocks, say, with only a block size of four.
+If the enrolling surgeon knows that the first two patients were assigned to the control therapy, which may be a non-surgical option, for example, then if they knew that the block size was four,
+they would automatically know that the next two patients to be enrolled would be assigned to surgery.
+This might alter their assessment of the eligibility of patients, and that could lead to bias in the comparison of the surgical to the non-surgical strategies.
+In order to protect from this source of bias with the use of permuted blocks, it is common practice to not have investigators be aware of the block size and to randomize the block size itself.
+There may be some blocks of, for example, four, six, or eight patients, so that one never knows for a particular patient whether they may be beginning a new block in the middle of a block or the last patient within a block.
+Anything else you think you need to cover in terms of stratification or blocks?
+The listener should be aware that this approach to randomization for trials that have relatively limited sample sizes, and by that I mean below many hundreds.
+It has really become the standard for state-of-the-art clinical trial conduct, and so this is a design feature that readers should expect to see in articles.
+Our intuition regarding how likely there is to be imbalance when these techniques are not used is not very good, and there can often be quite a bit of chance imbalance if these techniques are not used.
+There are alternatives to the use of these techniques that achieve similar goals, for example.
+One of these is a minimization technique where the randomization algorithm actually considers the imbalance that has occurred across the strata, and then adjust the randomization by strata to try to minimize differences between groups.
+And there is also the possibility when these techniques cannot be used of pre-specifying multivariable models in order to adjust for any chance in balances that do occur in the recognized prognostic factors.
+So I'd like our listeners to expect this type of methodologic quality when it's feasible, and then to be aware of the alternatives that exist when this type of restricted randomization cannot be used.
+What should a reader be looking for to determine if the randomization was effective or not?
+So the trial that uses these types of techniques is highly likely to be successful in achieving good balance across treatment arms.
+So I think the reader should first look for whether the description of the methodology is convincing that the investigators were able to successfully complete the randomization as planned.
+Were the strata characteristics that could be identified in patients reliably, was their relatively low rates of misclassification, and was the number of patients enrolled within each site and each stratus efficient so that the blocks were likely to have been largely filled out.
+When these techniques are not used, it is common practice to look for chance imbalance in the treatment groups.
+This was commonly given in a first or very early table in the manuscript.
+It should be noted that we generally do not conduct hypothesis tests to compare the characteristics of patients enrolled in the two groups when randomization is used.
+Because if the randomization is implemented as planned, there should be balance differences between the treatment groups, baseline characteristics that are statistically significant may or may not be important, and conversely differences that are not statistically significant may still be important.
+My advice to readers is to look at the characteristics of the two treatment groups, ask themselves based on their clinical expertise, whether the differences that they see, which in this setting would have occurred by chance, are likely to be large enough to create any differences in outcomes that are seen in the trial, and to read carefully the methods section of the manuscript to assess whether or not statistical analysis adjusted for any chance in battle.
+Especially if the sample size is relatively low.
+There is a very small but vocal cadre of investigators who believe that we make too much of randomized trials and that randomized trials have their limitations because the patient populations tend to be idealized, they may not generalize to the average patient.
+And that we should rely more on observational data where there's lots available and can see how treatments play out in actual clinical practice, et cetera.
+Why is it that we don't trust results from observational studies reporting outcomes from interventions as much as we do randomized trials?
+There are obviously tremendous challenges both in terms of use of resources and in enrolling representative patient population and conducting a randomized trial.
+And the trade-off in choosing a randomized design over an observational design or a design that uses a large quantity of archival or even administrative data to address questions has to do with the trade-off between quantity and quality of information.
+And in a sense, it also has to do with precision versus bias.
+A well-conducted randomized trial has very good internal validity, meaning the treatment effect that is observed is highly likely to be an accurate representation or at least an unbiased representation of the true effect of choosing the therapy being compared to the control in the patient population that was enrolled in that trial.
+In order to increase the value of a randomized trial, we should try very hard to ensure that the patient populations that are enrolled are as representative of those who might benefit from the treatments in clinical practice and to ensure that our reporting of the trials clarifies the various selections that may have occurred during the conduct of the trial.
+So clinicians can judge the extent with which the results of that RCT really should influence their decision making for their clinical population.
+The contrasting approach that you outline in which large amounts of data that are gathered from non-randomized work are used to address the same clinical questions.
+However, there are highly subject to bias because of unrecognized confounding.
+There are many factors that determine what treatments patients are recommended or take or successfully complete in routine clinical care.
+And it is highly unusual for the data sets that are available administratively to truly allow us to adjust for those patient characteristics that may affect choice of therapy or compliance with therapy.
+When one has a very large data set, so the analysis yields a very precise estimate.
+Small amounts of bias can result in differences that appear very, very statistically significant.
+There is, unfortunately, some experience with comparing results from large administrative data sets that are analyzed, so analyses of observational data, and finding that there is often systematic bias to a degree that it would affect the fundamental clinical conclusion compared to subsequent randomized work.
+Now, that's sad. I think it's important to acknowledge that there is important methodologic work being pursued to try to improve the ability of observational data sets to make quasi-causal conclusions or draw quasi-causal conclusions.
+And I expect over the next five to 10 years, we're going to get additional insights into those situations in which observational data may be more interpretable from a causal viewpoint.
+That said, I think the primary value of these types of analyses of observational data are situations in which one is trying to determine whether the work required for a randomized control trial is warranted, so preliminary work, or a situation in which conducting a randomized trial is simply infeasible or not appropriate from a risk-benefit point of view.
+The observational data enthusiasts often point to the conclusion that smoking causes lung cancer, yet there's never been a randomized trial to show that what is different about smoking that makes all of us who look at the monumental amount of observational data about the relationship between smoking and cancer secure that it's causative, even though there hasn't been a randomized trial showing that.
+The observational data that support the conclusion that smoking causes cancer are really only one part of the evidence that supports that conclusion.
+There are issues of biological plausibility, animal models, subsequent understandings of changes in risk that are associated with cessation of smoking within individuals, and other considerations that altogether I think support the firm conclusion that there is a causal relationship.
+As a Bayesian, I believe the interpretation of any data should be influenced by prior information, or as someone who tries to take a global approach to the interpretation of data, those data can have their interpretation influenced by a wide variety of supporting data elements.
+So unlike an observational study where a previously unsuspected relationship is observed, for example, a drug that was thought to be safe is suddenly associated with a rare form of malignancy, for example.
+In the setting of smoking and lung cancer, there is biological rationale related or parallel animal models, epidemiologic data that have been reproducible over a wide range of populations and time errors, and then epidemiologic data associated with the cessation of smoking, all of which support the same conclusion.
+So I think it's the totality of the evidence that allows one to conclude that we do not need to do a randomized trial of smoking to determine whether it's dangerous.
+Once again, I'm Ed Livingston, deputy editor for clinical reviews and education at JAMA, and co-author of the book The JAMA Guide to Statistics and Methods.
+I'll be back with you soon for another episode of JAMA Evidence. For more podcasts, you can visit us at JAMANetworkaudio.com or listen and subscribe on your favorite podcast app.
+Thank you.
